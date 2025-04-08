@@ -1,0 +1,26 @@
+{
+  "Acceso": {
+    "Alumno": {
+      "1500": {
+        "contrasena": "12345",
+        "nombre": "Alfredo"
+      },
+      "10011": {
+        "contrasena": "123",
+        "nombre": "Alfredo"
+      },
+      "10014": {
+        "contrasena": "456",
+        "nombre": "Rodrigo"
+      },
+      "10015": {
+        "contrasena": "1211",
+        "nombre": "Yahir"
+      }
+    }
+  },
+  "DTH22": {
+    "Humedad": 50.2,
+    "Temperatura": 28.1
+  }
+}
